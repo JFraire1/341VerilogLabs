@@ -1,0 +1,11 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Wed Feb 24 13:12:29 2021
+# Process ID: 13596
+# Current directory: C:/Users/Aegus/OneDrive/Desktop/Cecs341/lab3ALU
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent5008 C:\Users\Aegus\OneDrive\Desktop\Cecs341\lab3ALU\lab3ALU.xpr
+# Log file: C:/Users/Aegus/OneDrive/Desktop/Cecs341/lab3ALU/vivado.log
+# Journal file: C:/Users/Aegus/OneDrive/Desktop/Cecs341/lab3ALU\vivado.jou
+#-----------------------------------------------------------sstart_guioopen_project C:/Users/Aegus/OneDrive/Desktop/Cecs341/lab3ALU/lab3ALU.xprupdate_compile_order -fileset sources_1

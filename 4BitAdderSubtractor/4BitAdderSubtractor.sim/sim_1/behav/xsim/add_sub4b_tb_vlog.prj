@@ -1,0 +1,11 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../4BitAdderSubtractor.srcs/sources_1/new/FA.v" \
+"../../../../4BitAdderSubtractor.srcs/sources_1/new/addSub4B.v" \
+"../../../../4BitAdderSubtractor.srcs/sim_1/new/add_sub4b_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

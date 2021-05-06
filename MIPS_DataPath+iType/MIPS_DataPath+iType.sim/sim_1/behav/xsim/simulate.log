@@ -1,0 +1,30 @@
+Vivado Simulator 2020.2
+Time resolution is 1 ps
+--------------------------------------------------
+                                                  
+                  MIPS Data Path                  
+                                                  
+--------------------------------------------------
+--------------------------------------------------
+                 Final Values:                    
+--------------------------------------------------
+t =  630.0 ns Memory Location: 24: 00000002
+t =  650.0 ns Memory Location: 28: 00000000
+t =  670.0 ns Memory Location: 32: 1234567f
+t =  690.0 ns Memory Location: 36: 00000001
+t =  710.0 ns Memory Location: 40: 00000000
+t =  730.0 ns Memory Location: 44: 00000000
+t =  750.0 ns Memory Location: 48: xxxxxxxx
+
+t =  770.0 ns rf($t0): 00000002
+t =  790.0 ns rf($t1): 00000000
+t =  810.0 ns rf($t2): 1234567f
+t =  830.0 ns rf($t3): 00000001
+t =  850.0 ns rf($t4): 00000000
+t =  870.0 ns rf($t5): 00000000
+t =  890.0 ns rf($t6): xxxxxxxx
+
+
+                 End of Test                 
+
+$finish called at time : 890 ns : File "C:/Users/JoseFraireJr/MIPS_DataPath+iType/MIPS_DataPath+iType.srcs/sim_1/new/iType_tb.v" Line 87

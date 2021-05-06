@@ -1,0 +1,19 @@
+Vivado Simulator 2020.2
+Time resolution is 1 ps
+ table
+time = 5.0 ns, A = f0f03c3c, B = bf0ff5f5, ALUCntl = 0000, || ALUout = b0003434, C = x, V = x, Z = 0, N = 1
+time = 10.0 ns, A = f0f03c3c, B = bf0ff5f5, ALUCntl = 0001, || ALUout = fffffdfd, C = x, V = x, Z = 0, N = 1
+time = 15.0 ns, A = f0f03c3c, B = bf0ff5f5, ALUCntl = 0011, || ALUout = 4fffc9c9, C = x, V = x, Z = 0, N = 0
+time = 20.0 ns, A = 00000001, B = ffffffff, ALUCntl = 0010, || ALUout = 00000000, C = 1, V = 1, Z = 1, N = 0
+time = 25.0 ns, A = 6389754f, B = ad5624e6, ALUCntl = 0010, || ALUout = 10df9a35, C = 1, V = 1, Z = 0, N = 0
+time = 30.0 ns, A = 00000001, B = ffffffff, ALUCntl = 0010, || ALUout = 00000000, C = 1, V = 1, Z = 1, N = 0
+time = 35.0 ns, A = 6389754f, B = ad5624e6, ALUCntl = 0010, || ALUout = 10df9a35, C = 1, V = 1, Z = 0, N = 0
+time = 40.0 ns, A = ffffffff, B = ffffffff, ALUCntl = 0010, || ALUout = fffffffe, C = 1, V = 1, Z = 0, N = 0
+time = 45.0 ns, A = 00000000, B = 00000001, ALUCntl = 0110, || ALUout = ffffffff, C = 1, V = 1, Z = 0, N = 0
+time = 50.0 ns, A = f9684783, B = f998d562, ALUCntl = 0110, || ALUout = ffcf7221, C = 1, V = 1, Z = 0, N = 0
+time = 55.0 ns, A = f0f03c3c, B = bf0ff5f5, ALUCntl = 1100, || ALUout = 00000202, C = x, V = x, Z = 0, N = 0
+time = 60.0 ns, A = 89bcde34, B = c53bd687, ALUCntl = 0111, || ALUout = 764321cb, C = x, V = x, Z = 0, N = 0
+time = 65.0 ns, A = f0f03c3c, B = bf0ff5f5, ALUCntl = 1101, || ALUout = e1e07878, C = 1, V = x, Z = 0, N = 1
+time = 70.0 ns, A = f0f03c3c, B = bf0ff5f5, ALUCntl = 1111, || ALUout = xxxxxxxx, C = x, V = x, Z = x, N = x
+time = 75.0 ns, A = f0f03c3c, B = bf0ff5f5, ALUCntl = 1010, || ALUout = b0003231, C = 1, V = 0, Z = 0, N = 1
+time = 80.0 ns, A = f0f03c3c, B = bf0ff5f5, ALUCntl = 1110, || ALUout = 31e04647, C = 0, V = 1, Z = 0, N = 0

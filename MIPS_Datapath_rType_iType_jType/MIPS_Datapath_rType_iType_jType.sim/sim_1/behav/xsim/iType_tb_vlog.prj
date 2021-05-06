@@ -1,0 +1,20 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../MIPS_Datapath_rType_iType_jType.srcs/sources_1/imports/sources_1/imports/new/ALU.v" \
+"../../../../MIPS_Datapath_rType_iType_jType.srcs/sources_1/imports/sources_1/imports/new/Control.v" \
+"../../../../MIPS_Datapath_rType_iType_jType.srcs/sources_1/imports/imports/CECS 341 V Files/DataMem.v" \
+"../../../../MIPS_Datapath_rType_iType_jType.srcs/sources_1/imports/sources_1/imports/new/DataPath.v" \
+"../../../../MIPS_Datapath_rType_iType_jType.srcs/sources_1/imports/imports/JoseFraireJr/Downloads/CECS 341 V Files/Instruction_Memory.v" \
+"../../../../MIPS_Datapath_rType_iType_jType.srcs/sources_1/imports/sources_1/new/Mux32.v" \
+"../../../../MIPS_Datapath_rType_iType_jType.srcs/sources_1/imports/sources_1/new/Mux5.v" \
+"../../../../MIPS_Datapath_rType_iType_jType.srcs/sources_1/imports/sources_1/imports/new/PC.v" \
+"../../../../MIPS_Datapath_rType_iType_jType.srcs/sources_1/imports/sources_1/imports/new/PCADD.v" \
+"../../../../MIPS_Datapath_rType_iType_jType.srcs/sources_1/imports/sources_1/new/SignExtend.v" \
+"../../../../MIPS_Datapath_rType_iType_jType.srcs/sources_1/imports/imports/JoseFraireJr/Downloads/CECS 341 V Files/regfile32.v" \
+"../../../../MIPS_Datapath_rType_iType_jType.srcs/sim_1/imports/new/iType_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
