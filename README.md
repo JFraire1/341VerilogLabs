@@ -5,7 +5,7 @@
 <img src = #>
 
 <h4>Lab 5, MIPS Data Path (R-Type, I-Type) Generated Schematic:</h4>
-<img src = images/Lab5Schematic>
+<img src = https://github.com/JFraire1/341VerilogLabs/blob/main/images/Lab5Schematic.png>
 
 <h4>Lab 4, MIPS Data Path (R-Type ONLY) Generated Schematic:</h4>
 <img src = #>
@@ -14,9 +14,9 @@
 <img src = #>
 
 <h4>Lab 2B, 4Bit Adder Subtractor Generated Schematics:</h4>
-<img src = images/Lab2BSchmatic>
+<img src = https://github.com/JFraire1/341VerilogLabs/blob/main/images/Lab2BSchematic.png>
 
 <h4>Lab 2A, Practice Circuits Generated Schematic:</h4>
-<img src = images/Lab2ASchematic1>
+<img src = https://github.com/JFraire1/341VerilogLabs/blob/main/images/Lab2ASchematic1.png>
 
-<img src = images/Lab2ASchematic2>
+<img src = https://github.com/JFraire1/341VerilogLabs/blob/main/images/Lab2ASchematic2.png>
