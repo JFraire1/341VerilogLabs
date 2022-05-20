@@ -1,3 +1,4 @@
+<a name="top"></a>
 # 341VerilogLabs
 <h2>Collection of Labs from CECS 341 Computer Architecture Organization</h2>
 
@@ -21,4 +22,4 @@
 
 <img src = https://github.com/JFraire1/341VerilogLabs/blob/main/images/Lab2ASchematic2.png>
 
-<a href = https://github.com/JFraire1/341VerilogLabs#341veriloglabs>Back To Top</a>
+<a href = #top>Back To Top</a>
